@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7331877A37845c9823b22c735862c9b99223EEF4",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x7331877A37845c9823b22c735862c9b99223EEF4",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 5
+  },
+  "NFT_NAME": "XEON INFINITY TEST01",
+  "SYMBOL": "XIT01",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 100000000000000,
+  "DISPLAY_COST": 0.0001,
+    "GAS_LIMIT": 285000,
+    "MARKETPLACE": "Opeansea",
+    "MARKETPLACE_LINK": "https://testnets.opensea.io/ja/collection/xeon-infinity-test01",
+  "SHOW_BACKGROUND": false
+}
